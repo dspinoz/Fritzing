@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100.27805"
+   version="1.1"
+   height="79.817284"
+   id="svg4097"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="microsd-0544.svg">
+  <defs
+     id="defs4099">
+    <linearGradient
+       id="linearGradient5274"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#9d6c6c;stop-opacity:1;"
+         offset="0"
+         id="stop5276" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     fit-margin-top="0"
+     fit-margin-left="0"
+     showgrid="true"
+     fit-margin-bottom="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     id="base"
+     borderopacity="1.0"
+     showguides="true"
+     fit-margin-right="0"
+     inkscape:snap-global="false"
+     inkscape:zoom="3.9333333"
+     inkscape:cx="48.656612"
+     inkscape:cy="21.89995"
+     inkscape:window-width="846"
+     inkscape:window-height="925"
+     inkscape:window-x="320"
+     inkscape:window-y="66"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="text4678">
+    <inkscape:grid
+       empspacing="5"
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       type="xygrid"
+       id="grid4109"
+       originx="-5.2661938px"
+       originy="-965.72696px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-5.2661938,-6.8179483)">
+    <rect
+       width="99.61618"
+       x="5.597126"
+       y="7.1488805"
+       height="79.155418"
+       style="fill:#b82300;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.66186446px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4105"
+       clip-path="none" />
+    <circle
+       cx="25.200001"
+       cy="39.599998"
+       connectorname="INT1"
+       style="fill:none;stroke:#ffffff;stroke-width:1.22399998;stroke-opacity:1"
+       r="2.052"
+       id="connector9pin"
+       d="m 27.252001,39.599998 c 0,1.133289 -0.918712,2.052001 -2.052,2.052001 -1.133289,0 -2.052,-0.918712 -2.052,-2.052001 0,-1.133288 0.918711,-2.052 2.052,-2.052 1.133288,0 2.052,0.918712 2.052,2.052 z"
+       transform="matrix(0,1.25,-1.25,0,145.77119,36.00905)"
+       sodipodi:cx="25.200001"
+       sodipodi:cy="39.599998"
+       sodipodi:rx="2.052"
+       sodipodi:ry="2.052" />
+    <circle
+       cx="25.200001"
+       cy="39.599998"
+       connectorname="INT1"
+       style="fill:none;stroke:#ffffff;stroke-width:1.22399998;stroke-opacity:1"
+       id="circle4637"
+       r="2.052"
+       d="m 27.252001,39.599998 c 0,1.133289 -0.918712,2.052001 -2.052,2.052001 -1.133289,0 -2.052,-0.918712 -2.052,-2.052001 0,-1.133288 0.918711,-2.052 2.052,-2.052 1.133288,0 2.052,0.918712 2.052,2.052 z"
+       transform="matrix(0,1.25,-1.25,0,145.77119,46.00905)"
+       sodipodi:cx="25.200001"
+       sodipodi:cy="39.599998"
+       sodipodi:rx="2.052"
+       sodipodi:ry="2.052" />
+    <circle
+       cx="25.200001"
+       cy="39.599998"
+       connectorname="INT1"
+       style="fill:none;stroke:#ffffff;stroke-width:1.22399998;stroke-opacity:1"
+       id="circle4645"
+       r="2.052"
+       d="m 27.252001,39.599998 c 0,1.133289 -0.918712,2.052001 -2.052,2.052001 -1.133289,0 -2.052,-0.918712 -2.052,-2.052001 0,-1.133288 0.918711,-2.052 2.052,-2.052 1.133288,0 2.052,0.918712 2.052,2.052 z"
+       transform="matrix(0,1.25,-1.25,0,145.77119,-13.99095)"
+       sodipodi:cx="25.200001"
+       sodipodi:cy="39.599998"
+       sodipodi:rx="2.052"
+       sodipodi:ry="2.052" />
+    <circle
+       cx="25.200001"
+       cy="39.599998"
+       connectorname="INT1"
+       style="fill:none;stroke:#ffffff;stroke-width:1.22399998;stroke-opacity:1"
+       r="2.052"
+       id="circle4647"
+       d="m 27.252001,39.599998 c 0,1.133289 -0.918712,2.052001 -2.052,2.052001 -1.133289,0 -2.052,-0.918712 -2.052,-2.052001 0,-1.133288 0.918711,-2.052 2.052,-2.052 1.133288,0 2.052,0.918712 2.052,2.052 z"
+       transform="matrix(0,1.25,-1.25,0,145.77119,-3.9909493)"
+       sodipodi:cx="25.200001"
+       sodipodi:cy="39.599998"
+       sodipodi:rx="2.052"
+       sodipodi:ry="2.052" />
+    <circle
+       cx="25.200001"
+       cy="39.599998"
+       connectorname="INT1"
+       style="fill:none;stroke:#ffffff;stroke-width:1.22399998;stroke-opacity:1"
+       id="circle4649"
+       r="2.052"
+       d="m 27.252001,39.599998 c 0,1.133289 -0.918712,2.052001 -2.052,2.052001 -1.133289,0 -2.052,-0.918712 -2.052,-2.052001 0,-1.133288 0.918711,-2.052 2.052,-2.052 1.133288,0 2.052,0.918712 2.052,2.052 z"
+       transform="matrix(0,1.25,-1.25,0,145.77119,6.0090507)"
+       sodipodi:cx="25.200001"
+       sodipodi:cy="39.599998"
+       sodipodi:rx="2.052"
+       sodipodi:ry="2.052" />
+    <circle
+       cx="25.200001"
+       cy="39.599998"
+       connectorname="INT1"
+       style="fill:none;stroke:#ffffff;stroke-width:1.22399998;stroke-opacity:1"
+       r="2.052"
+       id="circle4651"
+       d="m 27.252001,39.599998 c 0,1.133289 -0.918712,2.052001 -2.052,2.052001 -1.133289,0 -2.052,-0.918712 -2.052,-2.052001 0,-1.133288 0.918711,-2.052 2.052,-2.052 1.133288,0 2.052,0.918712 2.052,2.052 z"
+       transform="matrix(0,1.25,-1.25,0,145.77119,16.00905)"
+       sodipodi:cx="25.200001"
+       sodipodi:cy="39.599998"
+       sodipodi:rx="2.052"
+       sodipodi:ry="2.052" />
+    <circle
+       cx="25.200001"
+       cy="39.599998"
+       connectorname="INT1"
+       style="fill:none;stroke:#ffffff;stroke-width:1.22399998;stroke-opacity:1"
+       id="circle4653"
+       r="2.052"
+       d="m 27.252001,39.599998 c 0,1.133289 -0.918712,2.052001 -2.052,2.052001 -1.133289,0 -2.052,-0.918712 -2.052,-2.052001 0,-1.133288 0.918711,-2.052 2.052,-2.052 1.133288,0 2.052,0.918712 2.052,2.052 z"
+       transform="matrix(0,1.25,-1.25,0,145.77119,26.00905)"
+       sodipodi:cx="25.200001"
+       sodipodi:cy="39.599998"
+       sodipodi:rx="2.052"
+       sodipodi:ry="2.052" />
+    <rect
+       style="fill:#4b4b4b;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+       id="rect3052"
+       width="47.033897"
+       height="47.796612"
+       x="16.845892"
+       y="27.041712" />
+    <g
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans"
+       id="text4678"
+       xml:space="preserve"
+       transform="translate(1.2711864,-2.2881356)">
+   <text
+   x="75.762711"
+   y="21.853712"
+   style="font-size:10px;fill:#ffffff"
+   id="tspan4680"><tspan
+     style="font-size:6px"
+     id="tspan3026">CD</tspan></text>
+
+  <text
+   id="text3028"
+   style="font-size:10px;fill:#ffffff"
+   y="31.514729"
+   x="76.271187"><tspan
+     id="tspan3030"
+     style="font-size:6px">D0</tspan></text>
+<text
+   x="76.525421"
+   y="41.429981"
+   style="font-size:10px;fill:#ffffff"
+   id="text3032"><tspan
+     style="font-size:6px"
+     id="tspan3034">GND</tspan></text>
+<text
+   id="text3036"
+   style="font-size:10px;fill:#ffffff"
+   y="51.85371"
+   x="76.525421"><tspan
+     id="tspan3038"
+     style="font-size:6px">SCK</tspan></text>
+<text
+   x="77.033897"
+   y="61.768963"
+   style="font-size:10px;fill:#ffffff"
+   id="text3040"><tspan
+     style="font-size:6px"
+     id="tspan3042">VCC</tspan></text>
+<text
+   id="text3044"
+   style="font-size:10px;fill:#ffffff"
+   y="71.429977"
+   x="76.779663"><tspan
+     id="tspan3046"
+     style="font-size:6px">DI</tspan></text>
+<text
+   x="76.779663"
+   y="81.599472"
+   style="font-size:10px;fill:#ffffff"
+   id="text3048"><tspan
+     style="font-size:6px"
+     id="tspan3050">CS</tspan></text>
+<text
+   id="text5286"
+   style="font-size:10px;fill:#ffffff"
+   y="54.396084"
+   x="26.949152"><tspan
+     id="tspan5288"
+     style="font-size:6px">microsd</tspan></text>
+</g>  </g>
+</svg>
